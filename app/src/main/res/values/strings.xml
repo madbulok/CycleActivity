@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">CycleActivity</string>
+    <string name="fragment_name">Это фрагмент</string>
+    <string name="increment_button">Increment</string>
+    <string name="restored_string">Restored: %1$d</string>
+    <string name="input_text_here">Здесь напишем текст</string>
+    <string name="input_text">Введите</string>
+    <string name="open_fragment">Открыть фрагмент</string>
+    <string name="exit_string">Выход</string>
+</resources>
